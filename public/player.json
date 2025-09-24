@@ -1,0 +1,122 @@
+[
+  {
+    "playerImage": "https://i.ibb.co.com/ymLDQFyw/Tamim.jpg",
+    "playerName": "Tamim Iqbal",
+    "playerCountry": "Bangladesh",
+    "playerRole": "Batsman",
+    "playerRating": 9.2,
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Off-break",
+    "bplPrice": "80,00000"
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/602YrPGx/shakib.webp",
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerRole": "All-rounder",
+    "playerRating": 9.7,
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "bplPrice": "85,00000"
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/HfS9vq7X/nabi.webp",
+    "playerName": "Mohammad Nabi",
+    "playerCountry": "Afghanistan",
+    "playerRole": "All-rounder",
+    "playerRating": 9.5,
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "of-break",
+    "bplPrice": "75,00000"
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/73cDr0n/ruseel.jpg",
+    "playerName": "Andre Russell",
+    "playerCountry": "West Indies",
+    "playerRole": "All-rounder",
+    "playerRating": 9.4,
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm fast",
+    "bplPrice": "78,00000"
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/ZzpxG00D/ibRaHim.jpg",
+    "playerName": "Ibrahim Zadran",
+    "playerCountry": "Afghanistan",
+    "playerRole": "Batsman",
+    "playerRating": 8.5,
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Off-break",
+    "bplPrice": "50,00000"
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/PzTnTSkG/mahmudullah.jpg",
+    "playerName": "Mahmullah Riyad",
+    "playerCountry": "Bangladesh",
+    "playerRole": "All-rounder",
+    "playerRating": 7.8,
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Off-break",
+    "bplPrice": "60,00000"
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/zhSn5BJt/Mustafizzz.jpg",
+    "playerName": "Mustafizur Rahman",
+    "playerCountry": "Bangladesh",
+    "playerRole": "Bowler",
+    "playerRating": 8.9,
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Left-arm fast-medium",
+    "bplPrice": "75,00000"
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/8n5963zM/Liton.webp",
+    "playerName": "Litton Das",
+    "playerCountry": "Bangladesh",
+    "playerRole": "Wicketkeeper-Batsman",
+    "playerRating": 8.8,
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "N/A",
+    "bplPrice": "70,00000"
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/0pCXRPZh/Rizwan.webp",
+    "playerName": "Mohammad Rizwan",
+    "playerCountry": "Pakistan",
+    "playerRole": "Wicketkeeper-Batsman",
+    "playerRating": 9.1,
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "N/A",
+    "bplPrice": "72,00000"
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/bgttCKvm/Nasum.webp",
+    "playerName": "Nasum Ahmed",
+    "playerCountry": "Bangladesh",
+    "playerRole": "Bowler",
+    "playerRating": 7.5,
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "bplPrice": "35,00000"
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/zWGyNNrP/Mehidy-Hasan-Miraz-3.jpg",
+    "playerName": "Mehedi Hasan Miraz",
+    "playerCountry": "Bangladesh",
+    "playerRole": "All-rounder",
+    "playerRating": 8.2,
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm off-break",
+    "bplPrice": "60,00000"
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/zCpTw4p/Shai-Hope.webp",
+    "playerName": "Shai Hope",
+    "playerCountry": "West Indies",
+    "playerRole": "All-rounder",
+    "playerRating": 8.0,
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm fast-medium",
+    "bplPrice": "65,00000"
+  }
+]
