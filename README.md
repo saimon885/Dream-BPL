@@ -1,4 +1,6 @@
-![My GitHub Banner](https://i.ibb.co.com/V1t76Wz/Screenshot-2025-11-19-155059.png)
+![My GitHub Banner](https://i.ibb.co.com/SD5ySf83/Screenshot-2025-11-19-160336.png)
 <h3>Project Name: BPL DREAM</h3>
 <h3>Live Link : https://mellifluous-buttercream-d0e97b.netlify.app/</h3>
-<p>Description: </p>
+<h4 >Description : <p>My project is a cricket related website. This website is made according to the current BPL auction in our country. Here I have some available players which anyone can buy. In the beginning, there is a number on my website where on one side there is a banner and on the other side there is some money to buy a player from a team. Then there is a banner. There are two options inside the available players called available and selected. If a player is selected, then that selected player will go to the selected option and any user can see it from there. Here I have given some cards among the available players. In that card, the image of the player, the name of the player, the role rating price of a domestic player, various things are given and next to it there is a button called a chosen player. When someone clicks on that choose player option, that button will immediately become disabled and it will go to the selected option and from here, if anyone wants, they can remove that selected player. Below that, I have a banner, and below the banner, I have a recent photo.</p> </h4>
+<h1>Technology Stack</h1>
+<p>Html,Tailwind css, React js</p>
